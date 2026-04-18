@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    margin: 12px;
+}
+button:hover{
+   background-color: hsl(0, 0%, 50%);
+
+}
+input::placeholder{
+    color: gray;
+    
+    
+}
+textarea::placeholder{
+    color: #999;
+}
+
